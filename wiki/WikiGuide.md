@@ -10,7 +10,7 @@ Overview
 Here are some good starting points if you're new to the wiki:
 
 * [Users Guide](UsersGuide.md)
-* DevelopersGuide
+* [Developers Guide](DevelopersGuide.md)
 * FAQ
 
 
