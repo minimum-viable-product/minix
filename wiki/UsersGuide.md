@@ -8,7 +8,7 @@ Part I: Getting Started
 -----------------------
 
 1. Introduction
-   - Welcome to MINIX 5
+   - [Welcome to MINIX 5](WelcomeToMinix.md)
 2. Installing MINIX 5
    - Hardware Requirements
    - Disk Partitions
