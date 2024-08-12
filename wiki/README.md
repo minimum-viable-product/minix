@@ -18,7 +18,7 @@ Documentation
 Development version (Master branch)
 -----------------------------------
 
-* [Users Guide](UsersGuide.md) - Start here if you are new to MINIX 3
+* [Users Guide](UsersGuide.md) - Start here if you are new to MINIX 5
 * [Developers Guide](DevelopersGuide.md) - How to hack on MINIX 5 itself
 
 
