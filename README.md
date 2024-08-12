@@ -1,5 +1,6 @@
 # Minix 5
 
-## A fork of MINIX 3
+_A fork of MINIX 3_
 
-### [Wiki](wiki/wiki.md)
+* [Wiki](wiki/README.md)
+* [Man Pages](https://man.minix3.org/)
