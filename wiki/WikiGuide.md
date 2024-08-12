@@ -9,7 +9,7 @@ Overview
 
 Here are some good starting points if you're new to the wiki:
 
-* UsersGuide
+* [Users Guide](UsersGuide.md)
 * DevelopersGuide
 * FAQ
 
@@ -37,7 +37,7 @@ Here are some formatting guidelines.
 Please follow them so that the entire handbook has the same look and feel.
 You should browse through the wiki to get the feel of things; use the Preview button to check that your change look as intended.
 
-* Please use CamelCase links such as UsersGuide, as opposed to links with underscores.
+* Please use CamelCase links such as `UsersGuide.md`, as opposed to links with underscores.
 
 * Start each page with a mixed-case title like this (analogous to \<h1> in HTML):
 
