@@ -9,7 +9,7 @@ With your help we can make MINIX 5 a very well documented system. Please help.
 Documentation
 -------------
 
-* Wiki Guide - How to navigate and contribute to this wiki
+* [Wiki Guide](WikiGuide.md) - How to navigate and contribute to this wiki
 * FAQ - Frequently asked questions about MINIX 5
 * GettingHelp
 * ReportingBugs
